@@ -67,28 +67,6 @@ The production-ready files will be generated inside the `/dist` folder.
 
 ---
 
-## 🚀 Deployment Options
-
-This project supports deployment on:
-
-### ✅ GitHub Pages
-
-1. Set `base` in `vite.config.js` to `/your-repo-name/`
-2. Run:
-   ```bash
-   npm run build
-   ```
-3. Push `/dist` to a `gh-pages` branch or use the `gh-pages` npm package
-
-### ✅ Netlify
-
-1. Login to [Netlify](https://netlify.com)
-2. Link your GitHub repo
-3. Use `npm run build` as the build command
-4. Set `dist` as the publish directory
-
----
-
 ## 📁 Folder Structure
 
 ```bash
