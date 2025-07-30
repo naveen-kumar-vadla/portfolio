@@ -5,7 +5,7 @@ import Skills from './components/Skills';
 import Experience from './components/Experience';
 import Contact from './components/Contact';
 import LineSeparator from './components/LineSeparator';
-import {Section} from "lucide-react";
+import Certifications from "./components/Certifications";
 
 export default function App() {
     return (
@@ -26,6 +26,10 @@ export default function App() {
                 </section>
                 <section id="experience" className="scroll-mt-24">
                     <Experience/>
+                    <LineSeparator/>
+                </section>
+                <section id="certifications" className="scroll-mt-24">
+                    <Certifications/>
                     <LineSeparator/>
                 </section>
                 <section id="contact" className="scroll-mt-24">

@@ -20,6 +20,7 @@ export default function Navbar() {
                     <a href="#about" className="hover:text-blue-600">About</a>
                     <a href="#skills" className="hover:text-blue-600">Skills</a>
                     <a href="#experience" className="hover:text-blue-600">Experience</a>
+                    <a href="#certifications" className="hover:text-blue-600">Certifications</a>
                     <a href="#contact" className="hover:text-blue-600">Contact</a>
                 </div>
 
@@ -41,6 +42,7 @@ export default function Navbar() {
                         {name: "About", href: "#about"},
                         {name: "Skills", href: "#skills"},
                         {name: "Experience", href: "#experience"},
+                        {name: "Certifications", href: "#certifications"},
                         {name: "Contact", href: "#contact"},
                     ].map((link) => (
                         <a
