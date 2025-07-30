@@ -2,7 +2,7 @@
 
 This is my personal developer portfolio built using **React** and **Tailwind CSS**, showcasing my skills, experience, and contact information. The site is fully responsive and optimized for desktop and mobile devices.
 
-> 🚀 **Live Site**: [portfolio] (IN_PROGRESS)
+> 🚀 **Live Site**: [naveen-kumar-vald-portfolio](https://naveen-kumar-vadla.netlify.app/#)
 
 ---
 
