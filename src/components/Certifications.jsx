@@ -61,7 +61,7 @@ export default function Certifications() {
     };
 
     return (
-        <section id="certifications" className="max-w-5xl mx-auto py-20 px-4">
+        <section id="certifications" className="max-w-5xl mx-auto py-12 px-4">
             <h2 className="text-3xl font-semibold mb-10 text-center">Certifications</h2>
 
             {Object.entries(groupedCerts).map(([provider, certs]) => (

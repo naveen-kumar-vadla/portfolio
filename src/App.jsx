@@ -6,6 +6,7 @@ import Experience from './components/Experience';
 import Contact from './components/Contact';
 import LineSeparator from './components/LineSeparator';
 import Certifications from "./components/Certifications";
+import Projects from "./components/Projects";
 
 export default function App() {
     return (
@@ -26,6 +27,10 @@ export default function App() {
                 </section>
                 <section id="experience" className="scroll-mt-24">
                     <Experience/>
+                    <LineSeparator/>
+                </section>
+                <section id="projects" className="scroll-mt-24">
+                    <Projects/>
                     <LineSeparator/>
                 </section>
                 <section id="certifications" className="scroll-mt-24">
