@@ -43,15 +43,25 @@ export default function Contact() {
                     </a>
                 </div>
 
-                <a
-                    href="https://drive.google.com/file/d/1jbl7c1G084uykhcGR-_Z5ttqCxfIgeQw/view?usp=sharing"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="inline-flex items-center gap-2 px-6 py-3 bg-gray-900 text-white rounded hover:bg-gray-700 mt-4 text-base font-medium"
-                >
-                    <FileText className="w-5 h-5"/>
-                    View Resume
-                </a>
+                <div className="flex flex-col sm:flex-row justify-center items-center gap-6 text-gray-800 text-lg">
+                    <a
+                        href="https://drive.google.com/file/d/1axr9YRsyYFBjWRC15WztlCzFOIUvN-iL/view?usp=sharing"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="inline-flex items-center gap-2 px-6 py-3 bg-gray-900 text-white rounded hover:bg-gray-700 mt-4 text-base font-medium"
+                    >
+                        <FileText className="w-5 h-5"/>
+                        Resume - Backend Developer
+                    </a>
+                    <a
+                        href="https://drive.google.com/file/d/1o4fu13YIR2WkSmV5_uhfkfzKKQn5C8jl/view?usp=sharing"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="inline-flex items-center gap-2 px-6 py-3 bg-gray-900 text-white rounded hover:bg-gray-700 mt-4 text-base font-medium"
+                    >
+                        <FileText className="w-5 h-5"/>
+                        Resume - Full Stack Developer
+                    </a></div>
             </div>
         </section>
     );
