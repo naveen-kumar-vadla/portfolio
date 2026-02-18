@@ -92,7 +92,9 @@ src/
 - 📧 **Email**: [vnaveenkumar9705@gmail.com](mailto:vnaveenkumar9705@gmail.com)
 - 💼 **LinkedIn**: [linkedin.com/in/vadla-naveen-kumar](https://www.linkedin.com/in/vadla-naveen-kumar/)
 - 💻 **GitHub**: [github.com/naveen-kumar-vadla](https://github.com/naveen-kumar-vadla)
-- 📄 **Resume**: [View Resume](https://drive.google.com/file/d/1jbl7c1G084uykhcGR-_Z5ttqCxfIgeQw/view)
+- 📄 **Resume**:
+  -  [Backend](https://drive.google.com/file/d/15qtXSOgkdob74P_RJO2lW7mlb22iRJ11/view?usp=sharing)
+  -  [Fullstack](https://drive.google.com/file/d/1y7X5ytSBUs75U1aLsirQgZAaeqwiZA5p/view?usp=sharing)
 
 ---
 
